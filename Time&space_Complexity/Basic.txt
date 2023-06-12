@@ -1,0 +1,27 @@
+Q. What is Time Complexity ?
+A. Amount of time taken by algo. to run as a function
+of length of input.
+
+Q. What is Space Complexity ?
+A. Amount of space taken by algo. to run as a function
+of length of input.
+
+Unit to represent Time Complexity --> 
+
+1. Big O(Upper Bound)--> Worst time taken by algo.
+2. Theta(Avg. Case) --> Avg. time taken by algo.
+3. Omega(Lower Bound)--> Min. time taken by algo.
+
+Big O Complexity --> 
+
+1. Constant time --> O(1)
+2. logarithmic time --> O(logn)
+3. Linear time --> O(n)
+4. Quadratic time --> O(n^2)
+5. Cubic time --> O(n^3)
+
+Time Complexity order --> 
+
+O(1) < O(logn) < O(n) < O(nlogn) < O(n^2) < O(n^3) <
+O(2^n) < O(n!) < O(n^n)
+
